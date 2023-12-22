@@ -1,0 +1,625 @@
+@keyframes shadow-inset-center {
+  0% {
+    box-shadow: inset 0 0 0 0 transparent;
+  }
+  to {
+    box-shadow: inset 0 0 14px 0 rgb(0 0 0/50%);
+  }
+}
+.child {
+  position: absolute;
+  top: 2535px;
+  left: 30px;
+  background-color: var(--color-white);
+  width: 1378px;
+  height: 632px;
+}
+.i17,
+.i18 {
+  position: absolute;
+  top: calc(50% + 370.5px);
+  left: calc(50% - 419px);
+  display: inline-block;
+  color: var(--color-gray-300);
+  width: 809px;
+  height: 160px;
+}
+.i18 {
+  top: calc(50% - 441px);
+  left: calc(50% - 392.3px);
+  width: 806px;
+  height: 72px;
+}
+.mask-group-icon1 {
+  position: absolute;
+  top: 280px;
+  left: 0;
+  width: 438.6px;
+  height: 488px;
+  object-fit: cover;
+}
+.frame-child10,
+.mask-group-icon2,
+.mask-group-icon3 {
+  position: absolute;
+  top: 166px;
+  left: 485.6px;
+  width: 643.4px;
+  height: 715.9px;
+  object-fit: cover;
+}
+.frame-child10,
+.mask-group-icon3 {
+  top: 280px;
+  left: 1176px;
+  width: 438.6px;
+  height: 488px;
+}
+.frame-child10 {
+  top: 310px;
+  left: 485px;
+  width: 644px;
+  height: 572px;
+}
+.i19 {
+  top: 662px;
+  left: 719px;
+  font-size: 48px;
+  letter-spacing: 0.01em;
+  text-transform: uppercase;
+}
+.div36,
+.i19,
+.parent2 {
+  position: absolute;
+}
+.div36 {
+  top: 733px;
+  left: 531px;
+  font-size: var(--font-size-base);
+  letter-spacing: 0.01em;
+  text-align: left;
+  display: inline-block;
+  width: 552px;
+  height: 72px;
+}
+.parent2 {
+  top: 1585px;
+  left: -87px;
+  width: 1614.6px;
+  height: 882px;
+}
+.div37,
+.div38 {
+  position: absolute;
+  line-height: 50px;
+}
+.div37 {
+  top: 2803px;
+  left: 265px;
+  font-size: var(--font-size-13xl);
+  color: var(--color-dimgray);
+  display: inline-block;
+  width: 910px;
+  height: 140px;
+}
+.div38 {
+  top: 0;
+  left: 354px;
+}
+.group-icon,
+.image-7-icon2 {
+  position: absolute;
+  top: 5px;
+  left: 285px;
+  width: 64px;
+  height: 64px;
+  object-fit: cover;
+}
+.group-icon {
+  top: 42px;
+  left: 367px;
+  width: 82px;
+  height: 14px;
+}
+.div39 {
+  position: absolute;
+  top: 0;
+  left: 101px;
+  line-height: 50px;
+}
+.frame-child11,
+.image-8-icon {
+  position: absolute;
+  object-fit: cover;
+}
+.image-8-icon {
+  top: 5px;
+  left: 0;
+  border-radius: var(--br-81xl);
+  width: 64px;
+  height: 64px;
+}
+.frame-child11 {
+  top: 42px;
+  left: 82px;
+  width: 82px;
+  height: 14px;
+}
+.div40,
+.parent4 {
+  position: absolute;
+  top: 0;
+}
+.parent4 {
+  left: 0;
+  width: 164px;
+  height: 69px;
+  opacity: 0.3;
+}
+.div40 {
+  left: 63px;
+  line-height: 50px;
+}
+.parent5 {
+  top: 0;
+  left: 570px;
+  width: 164px;
+  height: 69px;
+  opacity: 0.3;
+}
+.item,
+.parent3,
+.parent5 {
+  position: absolute;
+}
+.parent3 {
+  top: 2991px;
+  left: 351px;
+  width: 734px;
+  height: 69px;
+  font-size: var(--font-size-xl);
+  color: var(--color-black);
+}
+.item {
+  top: 3167px;
+  left: 30px;
+  width: 1378px;
+  height: 888px;
+  object-fit: cover;
+}
+.download-menu1 {
+  position: absolute;
+  top: 1520px;
+  left: 1390px;
+  font-size: var(--font-size-3xl);
+  text-align: left;
+  transform: rotate(-90deg);
+  transform-origin: 0 0;
+}
+.frame-child13 {
+  position: absolute;
+  top: 32px;
+  left: 0;
+  width: 1380px;
+  height: 714px;
+  object-fit: cover;
+}
+.div41 {
+  position: relative;
+  font-size: var(--font-size-sm);
+  font-family: var(--font-abeezee);
+  color: var(--color-white);
+  text-align: left;
+}
+.button12,
+.button13,
+.button14,
+.wrapper9 {
+  cursor: pointer;
+  background-color: transparent;
+  position: absolute;
+}
+.wrapper9 {
+  border: 1px solid var(--color-white);
+  padding: var(--padding-lg) var(--padding-17xl);
+  top: 58px;
+  left: 1123px;
+  border-radius: var(--br-81xl);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+.wrapper9:hover {
+  animation: 1s step-start 0s infinite normal none shadow-inset-center;
+  opacity: 1;
+}
+.button12,
+.button13,
+.button14 {
+  border: 0;
+  padding: 0;
+  top: 0;
+  left: 0;
+  font-size: var(--font-size-sm);
+  text-transform: uppercase;
+  font-family: var(--font-abeezee);
+  color: var(--color-white);
+  text-align: left;
+  display: inline-block;
+}
+.button12:hover,
+.button13:hover,
+.button14:hover {
+  color: var(--color-gray-100);
+}
+.button13,
+.button14 {
+  left: 92px;
+}
+.button14 {
+  left: 155px;
+}
+.frame-child14,
+.parent6 {
+  position: absolute;
+  top: 81px;
+  left: 540px;
+  width: 285px;
+  height: 17px;
+}
+.frame-child14 {
+  top: 145.5px;
+  left: 33.5px;
+  border-top: 1px solid var(--color-white);
+  box-sizing: border-box;
+  width: 1316px;
+  height: 1px;
+}
+.i20,
+.i21,
+.i22 {
+  position: absolute;
+  top: 650px;
+  left: 169px;
+  text-transform: capitalize;
+}
+.i21,
+.i22 {
+  left: 378px;
+}
+.i22 {
+  left: 579px;
+}
+.logo-for-the-restaurant4,
+.logo-for-the-restaurant5 {
+  position: absolute;
+  top: 0;
+  left: 15px;
+  width: 188px;
+  height: 186px;
+  object-fit: cover;
+}
+.logo-for-the-restaurant5 {
+  top: 140px;
+  left: 330px;
+  width: 705px;
+  height: 522px;
+}
+.i23 {
+  position: absolute;
+  top: 650px;
+  left: 925px;
+  text-transform: capitalize;
+}
+.frame-parent2 {
+  position: absolute;
+  top: -2px;
+  left: 30px;
+  width: 1380px;
+  height: 746px;
+  font-size: var(--font-size-13xl);
+  color: var(--color-gray-400);
+}
+.wrapper10 {
+  cursor: pointer;
+  border: 1px solid var(--color-white);
+  padding: var(--padding-lg) var(--padding-17xl);
+  background-color: var(--color-tan);
+  position: absolute;
+  top: 202px;
+  left: 820px;
+  border-radius: var(--br-81xl);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+.i24,
+.i25 {
+  position: absolute;
+  top: calc(50% - 216px);
+  left: calc(50% - 570px);
+  font-size: var(--font-size-17xl);
+  display: inline-block;
+  color: var(--color-gray-300);
+  width: 322px;
+  height: 72px;
+}
+.i25 {
+  top: calc(50% - 213px);
+  left: calc(50% + 103px);
+  width: 376px;
+}
+.davimciluxuryrestaurantcom2,
+.div43,
+.div44,
+.div45 {
+  position: absolute;
+  top: 80px;
+  left: 145px;
+  display: inline-block;
+  width: 474px;
+  height: 32px;
+}
+.davimciluxuryrestaurantcom2,
+.div44,
+.div45 {
+  top: 64px;
+  left: 820px;
+}
+.davimciluxuryrestaurantcom2,
+.div45 {
+  top: 120px;
+  left: 145px;
+}
+.davimciluxuryrestaurantcom2 {
+  top: 160px;
+}
+.frame-icon4 {
+  position: absolute;
+  top: 165px;
+  left: 118px;
+  width: 17px;
+  height: 13px;
+  overflow: hidden;
+  object-fit: cover;
+}
+.image-7-icon3 {
+  top: 223px;
+  left: 164px;
+  width: 22px;
+  height: 22px;
+}
+.frame-icon5,
+.image-7-icon3,
+.image-9-icon2 {
+  position: absolute;
+  object-fit: cover;
+}
+.frame-icon5 {
+  height: 5.79%;
+  width: 1.81%;
+  top: 51.16%;
+  right: 89.62%;
+  bottom: 43.06%;
+  left: 8.56%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.image-9-icon2 {
+  top: 221px;
+  left: 206px;
+  width: 24px;
+  height: 24px;
+}
+.span2 {
+  color: var(--color-white);
+}
+.div46 {
+  position: relative;
+  letter-spacing: 0.2em;
+  text-transform: uppercase;
+}
+.frame-child15,
+.wrapper11 {
+  position: absolute;
+  box-sizing: border-box;
+}
+.wrapper11 {
+  top: 67px;
+  left: 820px;
+  border-bottom: 1px solid var(--color-black);
+  width: 439px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-21xl) 0;
+  text-align: center;
+}
+.frame-child15 {
+  top: 319.5px;
+  left: -0.5px;
+  border-top: 1px solid var(--color-gainsboro);
+  width: 1379px;
+  height: 1px;
+}
+.div47 {
+  position: absolute;
+  top: 400px;
+  left: calc(50% - 30px);
+  display: inline-block;
+  width: 61px;
+  height: 32px;
+}
+.vector-icon4,
+.vector-icon5 {
+  position: absolute;
+  height: 4.98%;
+  width: 1.02%;
+  top: 18.52%;
+  right: 90.42%;
+  bottom: 76.5%;
+  left: 8.56%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.vector-icon5 {
+  height: 4.4%;
+  width: 1.16%;
+  top: 28.24%;
+  right: 90.28%;
+  bottom: 67.36%;
+}
+.frame-parent3 {
+  position: absolute;
+  top: 4095px;
+  left: 30px;
+  width: 1378px;
+  height: 432px;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--color-black);
+}
+.span3 {
+  font-family: var(--font-abeezee);
+}
+.span4 {
+  font-weight: 500;
+  font-family: var(--font-inter);
+}
+.div48 {
+  position: relative;
+  font-size: var(--font-size-5xl);
+  color: var(--color-gray-300);
+  text-align: left;
+}
+.wrapper12 {
+  cursor: pointer;
+  border: 1px solid #bdbdbd;
+  padding: var(--padding-lg) var(--padding-17xl);
+  background-color: transparent;
+  position: absolute;
+  top: 656px;
+  left: calc(50% - 218px);
+  border-radius: var(--br-81xl);
+  box-sizing: border-box;
+  width: 438px;
+  height: 99px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+.div49,
+.div50,
+.div51,
+.div52 {
+  position: absolute;
+  line-height: 25px;
+}
+.div49 {
+  top: 106px;
+  left: calc(50% - 559px);
+  font-size: var(--font-size-lg);
+  display: inline-block;
+  width: 1120px;
+  height: 27px;
+}
+.div50,
+.div51,
+.div52 {
+  top: 544px;
+  left: 0;
+  color: var(--color-gray-200);
+}
+.div51,
+.div52 {
+  left: 397px;
+}
+.div52 {
+  left: 795px;
+}
+.frame-child16,
+.frame-child17,
+.frame-child18 {
+  position: absolute;
+  top: 175px;
+  left: 0;
+  border-radius: var(--br-11xl);
+  width: 350px;
+  height: 352px;
+  object-fit: cover;
+}
+.frame-child17,
+.frame-child18 {
+  left: 397px;
+}
+.frame-child18 {
+  left: 794px;
+}
+.div53,
+.div54 {
+  top: 581px;
+  font-size: var(--font-size-base);
+  line-height: 21px;
+  text-align: left;
+  display: inline-block;
+  height: 51px;
+}
+.div53 {
+  position: absolute;
+  left: 1px;
+  width: 353px;
+}
+.div54 {
+  left: 397px;
+  width: 336px;
+}
+.div54,
+.div55,
+.i26 {
+  position: absolute;
+}
+.div55 {
+  top: 581px;
+  left: 794px;
+  font-size: var(--font-size-base);
+  line-height: 21px;
+  text-align: left;
+  display: inline-block;
+  width: 336px;
+  height: 51px;
+}
+.i26 {
+  top: 0;
+  left: 380px;
+  font-size: var(--font-size-45xl);
+  text-transform: capitalize;
+  color: var(--color-black);
+}
+.frame-parent4 {
+  position: absolute;
+  top: 788px;
+  left: 147px;
+  width: 1144px;
+  height: 755px;
+  font-size: var(--font-size-5xl);
+  color: var(--color-dimgray);
+}
+.div35 {
+  position: relative;
+  background-color: var(--color-whitesmoke);
+  width: 100%;
+  height: 4557px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-45xl);
+  color: var(--color-white);
+  font-family: var(--font-abeezee);
+}
